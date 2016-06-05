@@ -1,7 +1,7 @@
 # JPDelta
 Code to be enhanced
 
-#Execute MainAction.java as Java Application  to get StockMarket output
+StockMarket-Trades
 
 Requirement:
 
@@ -17,3 +17,4 @@ iii. Record a trade, with timestamp, quantity of shares, buy or sell indicator a
 iv. Calculate Volume Weighted Stock Price based on trades in past 15 minutes
 b. Calculate the GBCE All Share Index using the geometric mean of prices for all stocks
 
+#Execute MainAction.java as Java Application  to get StockMarket output
